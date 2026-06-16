@@ -1,101 +1,82 @@
+<img width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
-<h1 align="left">
+<h1>
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Tarun GK</strong>
 </h1>
 
-<h3>BackEnd Developer | Springboot • Java • SQL</h3>
+### Backend Developer · Spring Boot · Java · SQL
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-  <p>
-   I am a Java Backend Developer who builds the high-performance engines behind seamless digital experiences. From architecting scalable Spring Boot microservices to designing intuitive RESTful APIs, I bridge the gap between complex server-side logic and the user's journey. I don’t just write code; I ensure that every database query and system integration translates into a digital product that feels fast, reliable, and effortless for the end user.
-  </p>
+I'm a Java Backend Developer who builds the high-performance engines behind seamless digital experiences. From architecting scalable Spring Boot microservices to designing intuitive RESTful APIs, I bridge the gap between complex server-side logic and the user's journey — ensuring every database query and system integration feels fast, reliable, and effortless.
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:tarun.gadadasu@gmail.com"><img src="https://img.shields.io/badge/📧_tarun.gadadasu@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
+- 🌍 Based in India
+- 📧 [tarun.gadadasu@gmail.com](mailto:tarun.gadadasu@gmail.com)
+- 🤝 Open to collaboration on Web Development projects
+- 🌱 Currently deepening expertise in microservices & system design
 
-<h3>🌐 Socials</h3>
-  
+<br clear="right"/>
 
+---
 
-  <a href="https://github.com/tarun-gk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+## 🌐 Connect
 
-  <a href="https://instagram.com/tarun_0_0_6.10">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarun-gk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadadasu-kali-tarun)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarun_0_0_6.10)
 
-  <a href="https://www.linkedin.com/in/gadadasu-kali-tarun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+---
 
-  
+## 🛠️ Tech Stack
 
+**Languages**
 
-  <img src="https://komarev.com/ghpvc/?username=tarun-gk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C](https://skillicons.dev/icons?i=c)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-<br clear="all" />
+**Frameworks & Libraries**
 
+![Spring](https://skillicons.dev/icons?i=spring)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+**Databases**
 
- <img src="https://skillicons.dev/icons?i=html,css,java,c,javascript" />
-<br/><br/>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-</td>
+**Tools & Platforms**
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,nextjs,tailwind" />
-</td>
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
-</td>
-</tr>
-</table>
-</p>
-
-
-
-
-
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=tarun-gk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=tarun-gk&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun-gk&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-gk&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarun-gk&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
