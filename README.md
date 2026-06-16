@@ -3,33 +3,31 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Tarun GK</strong>
 </h1>
-<h3>BackEnd Developer | Springboot • Java • SQL</h3>
+<h3>⚙️ Backend Developer &nbsp;|&nbsp; Spring Boot &nbsp;•&nbsp; Java &nbsp;•&nbsp; SQL</h3>
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
   <p>
-   I am a Java Backend Developer who builds the high-performance engines behind seamless digital experiences. From architecting scalable Spring Boot microservices to designing intuitive RESTful APIs, I bridge the gap between complex server-side logic and the user's journey. I don’t just write code; I ensure that every database query and system integration translates into a digital product that feels fast, reliable, and effortless for the end user.
+   I am a Java Backend Developer who builds the high-performance engines behind seamless digital experiences. From architecting scalable Spring Boot microservices to designing intuitive RESTful APIs, I bridge the gap between complex server-side logic and the user's journey. I don't just write code; I ensure that every database query and system integration translates into a digital product that feels fast, reliable, and effortless for the end user.
   </p>
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:tarun.gadadasu@gmail.com"><img src="https://img.shields.io/badge/📧_tarun.gadadasu@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 <h3>🌐 Socials</h3>
-  
   <a href="https://github.com/tarun-gk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/tarun_0_0_6.10">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gadadasu-kali-tarun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <img src="https://komarev.com/ghpvc/?username=tarun-gk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 <br clear="all" />
+
 ## 🛠️ Skills
 <p align="center">
 <table>
@@ -52,14 +50,16 @@
 </td>
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
 </td>
 </tr>
 </table>
 </p>
+
 ## 📊 GitHub Stats
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=tarun-gk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=tarun-gk&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
+
 ---
