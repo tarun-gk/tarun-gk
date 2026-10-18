@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/gadadasu-kali-tarun">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tarun-gk&style=flat-square&color=blue" alt="Profile Visit"/>
+ 
 </div>
 <br clear="all" />
 
